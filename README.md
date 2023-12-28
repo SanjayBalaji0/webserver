@@ -53,7 +53,8 @@ httpd = HTTPServer (server_address, HelloHandler)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![image](https://github.com/SanjayBalaji0/webserver/assets/145533553/ccd2428f-f64d-4c56-a168-ca3370043b8c)
+![image](https://github.com/SanjayBalaji0/webserver/assets/145533553/299f24fd-6207-4835-a380-78fdc6e74083)
+
 
 ## RESULT:
 The program is executed succesfully
